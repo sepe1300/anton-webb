@@ -1,2 +1,2 @@
 # anton-webb
-Info för data.
+Här är designen för Anton's hemsida.
